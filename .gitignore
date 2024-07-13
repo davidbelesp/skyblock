@@ -12,7 +12,6 @@ node_modules
 .yarn
 /.vercel_build_output
 /yarn-error.log
-/src/_donators.json
 .mjs
 
 # this is auto-generated

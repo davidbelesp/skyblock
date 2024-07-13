@@ -1,7 +1,7 @@
 <script lang="ts">
 	import Username from '$lib/minecraft/Username.svelte'
 	import SearchUser from '$lib/SearchUser.svelte'
-	import donators from '../donators.json'
+	import donators from '../_donators.json'
 	import Head from '$lib/Head.svelte'
 	import Emoji from '$lib/Emoji.svelte'
 	import LoginButton from '$lib/LoginButton.svelte'
