@@ -21,7 +21,7 @@
 	title="SkyBlock Stats"
 	description="Check SkyBlock stats, see leaderboards, mayors, and way more."
 />
-<a class="github" href="https://github.com/skyblockstats/skyblock-stats">
+<a class="github" href="https://github.com/davidbelesp/skyblock">
 	<img src="/github-mark-light.png" alt="View source on GitHub" />
 </a>
 
@@ -61,13 +61,14 @@
 	<section>
 		<h2>Info</h2>
 		<p>Website made by <a href="https://matdoes.dev">mat</a>.</p>
+		<p>Contribution by <a href="https://davidbelesp.com">davidbelesp</a>.</p>
 		<p>
 			Official hangout/support Discord:
 			<a href="//discord.gg/KtscNUnh4f">discord.gg/KtscNUnh4f</a>.
 		</p>
 		<p>
 			Source code:
-			<a href="//github.com/skyblockstats/skyblock-stats">github.com/skyblockstats/skyblock-stats</a
+			<a href="https://github.com/davidbelesp/skyblock">github.com/davidbelesp/skyblock</a
 			>.
 		</p>
 		<p>
@@ -84,7 +85,6 @@
 		</p>
 		<p>Emojis: <a href="//twemoji.twitter.com/">Twemoji</a>.</p>
 		<p>Font: <a href="//brailleinstitute.org/freefont">Atkinson Hyperlegible</a>.</p>
-		<p class="secret">Thank you to Duckie Cousin Gaming for the idea to add harp leaderboards.</p>
 	</section>
 </main>
 
